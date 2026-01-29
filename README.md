@@ -66,10 +66,10 @@ Perfect for visualizing hierarchical data like work items, tasks, or project mod
 
 ```bash
 # Clone the repo
-git clone https://github.com/AbdullahPro784/Task-28-Asset-Table
+git clone https://github.com/AbdullahPro784/Task-30-Asset-Table
 
 # Navigate into project folder
-cd my-tree-project
+cd Task-30-Asset-Table
 
 # Install dependencies
 npm install
