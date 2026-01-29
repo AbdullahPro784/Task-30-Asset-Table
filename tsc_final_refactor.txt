@@ -1,0 +1,4 @@
+components/TreeTable/TableExplorer.tsx(7,10): error TS2614: Module '"../variations/TableVariant1"' has no exported member 'TableVariant1'. Did you mean to use 'import TableVariant1 from "../variations/TableVariant1"' instead?
+components/TreeTable/TableExplorer.tsx(8,10): error TS2614: Module '"../variations/TableVariant2"' has no exported member 'TableVariant2'. Did you mean to use 'import TableVariant2 from "../variations/TableVariant2"' instead?
+components/TreeTable/TableExplorer.tsx(9,10): error TS2614: Module '"../variations/TableVariant3"' has no exported member 'TableVariant3'. Did you mean to use 'import TableVariant3 from "../variations/TableVariant3"' instead?
+components/TreeTable/TableExplorer.tsx(10,10): error TS2614: Module '"../variations/TableVariantOriginal"' has no exported member 'TableVariantOriginal'. Did you mean to use 'import TableVariantOriginal from "../variations/TableVariantOriginal"' instead?

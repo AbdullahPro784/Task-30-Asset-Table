@@ -1,0 +1,41 @@
+app/page.tsx(4,23): error TS2307: Cannot find module '@/components/utils/data' or its corresponding type declarations.
+components/Cell/TableCell.tsx(3,30): error TS2307: Cannot find module '@/components/components/Cell/CellComments' or its corresponding type declarations.
+components/columns.tsx(13,23): error TS2307: Cannot find module './utils/data' or its corresponding type declarations.
+components/columns.tsx(14,30): error TS2307: Cannot find module './components/Cell/CellEditor' or its corresponding type declarations.
+components/columns.tsx(15,36): error TS2307: Cannot find module './components/Cell/StatusEditableCell' or its corresponding type declarations.
+components/Modals/IntegratedChart.tsx(17,23): error TS2307: Cannot find module '@/components/utils/data' or its corresponding type declarations.
+components/Panels/FilterPanel.tsx(5,33): error TS2307: Cannot find module '@/components/hooks/useTableEngine' or its corresponding type declarations.
+components/Panels/FilterPanel.tsx(26,20): error TS7006: Parameter 'prev' implicitly has an 'any' type.
+components/Panels/FilterPanel.tsx(29,42): error TS7006: Parameter 'c' implicitly has an 'any' type.
+components/Panels/FilterPanel.tsx(35,20): error TS7006: Parameter 'prev' implicitly has an 'any' type.
+components/Panels/FilterPanel.tsx(38,40): error TS7006: Parameter 's' implicitly has an 'any' type.
+components/Panels/StatusBar.tsx(4,23): error TS2307: Cannot find module '@/components/utils/data' or its corresponding type declarations.
+components/Row/SubRowContent.tsx(4,27): error TS2307: Cannot find module './TreeLines' or its corresponding type declarations.
+components/Row/TableRow.tsx(8,27): error TS2307: Cannot find module './TreeLines' or its corresponding type declarations.
+components/TableExplorer.tsx(10,23): error TS2307: Cannot find module './utils/data' or its corresponding type declarations.
+components/Toolbar/PivotModeToggle.tsx(2,23): error TS2307: Cannot find module '../../../ui/label' or its corresponding type declarations.
+components/variations/hooks.ts(18,23): error TS2307: Cannot find module '../utils/data' or its corresponding type declarations.
+components/variations/hooks.ts(153,36): error TS7006: Parameter 'child' implicitly has an 'any' type.
+components/variations/hooks.ts(253,79): error TS7006: Parameter 'sub' implicitly has an 'any' type.
+components/variations/TableVariant1.tsx(24,69): error TS2307: Cannot find module '@/hooks' or its corresponding type declarations.
+components/variations/TableVariant1.tsx(68,40): error TS2322: Type '{ depth: number; isLastChild: boolean; }' is not assignable to type 'IntrinsicAttributes & TreeConnectorProps<unknown>'.
+  Property 'depth' does not exist on type 'IntrinsicAttributes & TreeConnectorProps<unknown>'.
+components/variations/TableVariant2.tsx(6,36): error TS2307: Cannot find module '../components/Cell/StatusEditableCell' or its corresponding type declarations.
+components/variations/TableVariant2.tsx(14,29): error TS2307: Cannot find module '../utils/data' or its corresponding type declarations.
+components/variations/TableVariant2.tsx(16,38): error TS2307: Cannot find module '../components/Header/TableHeader' or its corresponding type declarations.
+components/variations/TableVariant2.tsx(17,30): error TS2307: Cannot find module '../components/Row/TableRow' or its corresponding type declarations.
+components/variations/TableVariant2.tsx(18,30): error TS2307: Cannot find module '../components/Cell/CellEditor' or its corresponding type declarations.
+components/variations/TableVariant2.tsx(27,72): error TS7006: Parameter 'item' implicitly has an 'any' type.
+components/variations/TableVariant2.tsx(65,40): error TS2322: Type '{ depth: number; isLastChild: boolean; }' is not assignable to type 'IntrinsicAttributes & TreeConnectorProps<unknown>'.
+  Property 'depth' does not exist on type 'IntrinsicAttributes & TreeConnectorProps<unknown>'.
+components/variations/TableVariant3.tsx(5,36): error TS2307: Cannot find module '../components/Cell/StatusEditableCell' or its corresponding type declarations.
+components/variations/TableVariant3.tsx(13,29): error TS2307: Cannot find module '../utils/data' or its corresponding type declarations.
+components/variations/TableVariant3.tsx(15,38): error TS2307: Cannot find module '../components/Header/TableHeader' or its corresponding type declarations.
+components/variations/TableVariant3.tsx(16,30): error TS2307: Cannot find module '../components/Row/TableRow' or its corresponding type declarations.
+components/variations/TableVariant3.tsx(17,30): error TS2307: Cannot find module '../components/Cell/CellEditor' or its corresponding type declarations.
+components/variations/TableVariant3.tsx(27,72): error TS7006: Parameter 'item' implicitly has an 'any' type.
+components/variations/TableVariant3.tsx(48,99): error TS7006: Parameter 's' implicitly has an 'any' type.
+components/variations/utils.ts(1,23): error TS2307: Cannot find module '../utils/data' or its corresponding type declarations.
+components/variations/Variant3Components.tsx(2,23): error TS2307: Cannot find module '../utils/data' or its corresponding type declarations.
+hooks/useTableEngine.ts(18,28): error TS2307: Cannot find module '../columns' or its corresponding type declarations.
+scripts/seed.ts(2,22): error TS2307: Cannot find module '../components/AssetTable/utils/data' or its corresponding type declarations.

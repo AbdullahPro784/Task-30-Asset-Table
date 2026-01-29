@@ -1,0 +1,19 @@
+"use client";
+
+import TableExplorer from "@/components/TreeTable/TableExplorer";
+import { Asset } from "@/utils/data";
+
+interface ExplorerViewProps {
+    data: Asset[];
+    initialVariant: any;
+}
+
+export default function ExplorerView({ data, initialVariant }: ExplorerViewProps) {
+    return (
+        <main className="flex min-h-screen flex-col items-center justify-between p-8 bg-gray-50">
+            <div className="w-full max-w-7xl">
+                <TableExplorer data={data} initialVariant={initialVariant} />
+            </div>
+        </main>
+    );
+}
